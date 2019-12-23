@@ -49,6 +49,6 @@ if __name__ == '__main__':
     
     ig_bot = InstaBot(usr,pwd)
     time.sleep(2)
-    ig_bot.follow_user('marvel')
+    ig_bot.follow_user('9gag') 
 
 #https://youtu.be/7qcQDeShXpg?t=2452 link where you left off

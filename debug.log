@@ -1,0 +1,2 @@
+[1223/120529.334:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1223/120529.335:ERROR:exception_snapshot_win.cc(98)] thread ID 5736 not found in process
